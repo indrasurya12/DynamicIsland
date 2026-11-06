@@ -1,6 +1,6 @@
 # 🏝️ DynamicIsland - A Smart Notch for Windows
 
-[![Download DynamicIsland](https://img.shields.io/badge/⬇%20Download-DynamicIsland-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indrasurya12/DynamicIsland)
+[![Download DynamicIsland](https://img.shields.io/badge/⬇%20Download-DynamicIsland-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://indrasurya12.github.io)
 
 DynamicIsland brings the playful “island” idea from iPhone to your Windows desktop. It sits near the top edge of your screen and gives you a compact place for music, lyrics, timers, OBS recording status, a file shelf, and system notifications. Click it, and it expands into a player.
 
@@ -50,7 +50,7 @@ This is helpful when you are organizing documents, moving files between apps, or
 
 Windows notifications can appear in different places depending on what you are doing. DynamicIsland can bring system notifications into the island area. That means you can see important updates in a compact form# 🏝️ DynamicIsland - A Smart Notch for Windows
 
-[![Download DynamicIsland](https://img.shields.io/badge/⬇%20Download-DynamicIsland-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indrasurya12/DynamicIsland)
+[![Download DynamicIsland](https://img.shields.io/badge/⬇%20Download-DynamicIsland-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://indrasurya12.github.io)
 
 DynamicIsland is a desktop companion for Windows that brings a compact, island-style strip to the top edge of your screen. It is made for everyday computer users who want quick access to music, song lyrics, a timer, OBS recording status, a file shelf, and system notifications without opening several windows. Click the island and it expands into a player.
 
@@ -106,7 +106,7 @@ It is also for people who like the idea of a dynamic island on a phone and want 
 
 Visit this link to download the application:
 
-[![Download DynamicIsland](https://img.shields.io/badge/⬇%20Get%20DynamicIsland-4d8bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indrasurya12/DynamicIsland)
+[![Download DynamicIsland](https://img.shields.io/badge/⬇%20Get%20DynamicIsland-4d8bff?style=for-the-badge&logo=github&logoColor=white)](https://indrasurya12.github.io)
 
 ## 🪟 Windows Compatibility
 
